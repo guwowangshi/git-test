@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hot-fix test!");
         System.out.println("pull test");
         System.out.println("gitEE push");
+        System.out.println("gitEE pull");
     }
 }
